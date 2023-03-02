@@ -7,7 +7,8 @@
 - 💬 Ask me about **NextJS, React, NodeJS, JavaScript, Angular**
 - 📫 contact **nikhilgoud24@gmail.com**
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: My name means **Infinite**
+- ⚡ Fun fact: My name means <span title="Infinity"><img align='center' alt="Infinity" src="https://img.icons8.com/clouds/512/infinity.png" height='30'
+      width='30'></span>
 
 <h3 align='left'>Connect with me:</h3>
 <p align='left'>
