@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋, I'm Nikhil Goud</h1>
 <h3 align='center'>Technology Enthusiast | Full Stack Web Developer</h3>
 
-[Profile View Counter](https://komarev.com/ghpvc/?username=nikhilgoud)
+![Profile View Counter](https://komarev.com/ghpvc/?username=nikhilgoud)
 
 - 🌱 I’m currently wokring as **Principal Software Engineer** at **Techigai, Hyderabad, India**
 - 💬 Ask me about **NextJS, React, NodeJS, JavaScript, Angular**
