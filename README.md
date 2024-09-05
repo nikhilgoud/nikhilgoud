@@ -3,7 +3,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nikhilgoud)
 
-- 🌱 I’m currently wokring as **Principal Software Engineer** at **Techigai, Hyderabad, India**
+- 🌱 I’m currently working as **Principal Software Engineer** at **Techigai, Hyderabad, India**
 - 💬 Ask me about **NextJS, React, NodeJS, JavaScript, Angular**
 - 📫 contact **nikhilgoud24@gmail.com**
 - 😄 Pronouns: He / Him
@@ -15,7 +15,7 @@
   <a href='https://dev.to/nikhilgoud' target='blank' title='Dev.to'>
     <img
       align='center'
-      src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg'
+      src='https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png'
       alt='nikhilgoud'
       height='30'
       width='40'
@@ -24,7 +24,7 @@
   <a href='https://twitter.com/nikhilgoud_dev' target='blank' title='Twitter'>
     <img
       align='center'
-      src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg'
+      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg'
       alt='nikhilgoud'
       height='30'
       width='40'
@@ -33,7 +33,7 @@
   <a href='https://linkedin.com/in/nikhilgoud' target='blank' title='LinkedIn'>
     <img
       align='center'
-      src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg'
+      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg'
       alt='nikhilgoud'
       height='30'
       width='40'
@@ -42,7 +42,7 @@
   <a href='https://stackoverflow.com/users/4189897/nikhilgoud' target='blank' title='StackOverflow'>
     <img
       align='center'
-      src='https://cdn.worldvectorlogo.com/logos/stack-overflow.svg'
+      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg'
       alt='nikhilgoud'
       height='30'
       width='40'
@@ -70,11 +70,11 @@
   </a>
   &nbsp;
   <a href='https://nextjs.org/' target='_blank' rel='noreferrer' title='NextJS'>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' alt='nextjs' width='40' height='40' />
+    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='nextjs' width='40' height='40' />
   </a>
   <a href='https://nodejs.org' target='_blank' rel='noreferrer' title='NodeJS'>
     <img
-      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'
+      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg'
       alt='nodejs'
       width='40'
       height='40'
@@ -97,11 +97,11 @@
     />
   </a>
   <a href='https://angular.io' target='_blank' rel='noreferrer' title='Angular'>
-    <img src='https://angular.io/assets/images/logos/angular/angular.svg' alt='angular' width='40' height='40' />
+    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg' alt='angular' width='40' height='40' />
   </a>
   <a href='https://www.w3schools.com/css/' target='_blank' rel='noreferrer' title='CSS'>
     <img
-      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'
+      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'
       alt='css3'
       width='40'
       height='40'
@@ -109,21 +109,18 @@
   </a>
   <a href='https://www.w3.org/html/' target='_blank' rel='noreferrer' title='HTML'>
     <img
-      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'
+      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'
       alt='html5'
       width='40'
       height='40'
     />
-  </a>
-  <a href='https://tailwindcss.com/' target='_blank' rel='noreferrer' title='Tailwind'>
-    <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='tailwind' width='40' height='40' />
   </a>
   <a href='https://sass-lang.com' target='_blank' rel='noreferrer' title='SASS'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='sass' width='40' height='40' />
   </a>
   <a href='https://getbootstrap.com' target='_blank' rel='noreferrer' title='Bootstrap'>
     <img
-      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg'
+      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'
       alt='bootstrap'
       width='40'
       height='40'
@@ -188,7 +185,7 @@
   </a>
   <a href='https://aws.amazon.com/' target='_blank' rel='noreferrer' title='AWS'>
     <img
-      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg'
+      src='https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg'
       alt='amazonwebservices'
       width='40'
       height='40'
