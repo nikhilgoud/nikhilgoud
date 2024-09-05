@@ -3,8 +3,8 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nikhilgoud)
 
-- 🌱 I’m currently working as **Principal Software Engineer** at **Techigai, Hyderabad, India**
-- 💬 Ask me about **NextJS, React, NodeJS, JavaScript, Angular**
+- 🌱 I’m currently working as **Associate Architect** at **Paltech, Hyderabad, India**
+- 💬 Ask me about **NextJS, React, NodeJS, NestJS, .NET, MSSQL, C#, JavaScript, Angular**
 - 📫 contact **nikhilgoud24@gmail.com**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My name means <span title="Infinity"><img align='center' alt="Infinity" src="https://img.icons8.com/clouds/512/infinity.png" height='30'
